@@ -1,4 +1,4 @@
-<h1 align="center">🔥 Welcome to My GitHub — amankumarev 🔥</h1>
+<h1 align="center">🔥 Welcome to My GitHub — Aman Kumar 🔥</h1>
 
 <p align="center">
   <img src="https://i.gifer.com/origin/43/43555b4c4b0f22e1cba4f6ffba7d5c86.gif" width="200" />
@@ -86,10 +86,13 @@ My goal is to become an impactful **Full-Stack + ML Developer** and build meanin
 
 ---
 
-## 🧩 Coding Profile  
+## 🧩 Coding Profiles  
 <p align="center">
   <a href="https://leetcode.com/u/Aman-kumar1234/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white" />
+  </a>
+  <a href="https://www.kaggle.com/amankumardev">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white" />
   </a>
 </p>
 
@@ -112,3 +115,4 @@ My goal is to become an impactful **Full-Stack + ML Developer** and build meanin
 <p align="center">
   <img width="400" src="https://media.giphy.com/media/xUA7bdpLxQhsSQdxGw/giphy.gif">
 </p>
+
