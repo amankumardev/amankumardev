@@ -1,4 +1,4 @@
-<h1 align="center">🔥 Welcome to My GitHub — Aman Kumar 🔥</h1>
+<h1 align="center">🔥 Welcome to My GitHub — amankumardev 🔥</h1>
 
 <p align="center">
   <img src="https://i.gifer.com/origin/43/43555b4c4b0f22e1cba4f6ffba7d5c86.gif" width="200" />
