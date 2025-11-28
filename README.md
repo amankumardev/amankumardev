@@ -100,10 +100,11 @@ My goal is to become an impactful **Full-Stack + ML Developer** and build meanin
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iammras&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iammras&layout=compact&theme=tokyonight" />
-  <img src="https://streak-stats.demolab.com?user=iammras&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=amankumardev&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amankumardev&layout=compact&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=amankumardev&theme=tokyonight" />
 </p>
+
 
 ---
 
