@@ -74,16 +74,6 @@ My goal is to become an impactful **Full-Stack + ML Developer** and build meanin
 
 ---
 
-## ✨ Animated Tech Icons  
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/html.gif" width="70" />
-  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/css.gif" width="70" />
-  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/js.gif" width="70" />
-  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/python.gif" width="70" />
-</p>
-
-<p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/wave.png" width="90%"></p>
-
 ---
 
 ## 🧩 Coding Profiles  
