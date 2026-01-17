@@ -20,7 +20,7 @@
 I love solving challenging problems, building real-world applications, and expanding my knowledge every single day.  
 My goal is to become an impactful **Full-Stack + ML Developer** and build meaningful software products.
 
-<p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/wave.png" width="90%"></p>
+
 
 ---
 
