@@ -1,109 +1,102 @@
-<h1 align="center">🔥 Welcome to My GitHub — amankumardev 🔥</h1>
+<h1 align="center">🚀 Aman Kumar</h1>
+<h3 align="center">Full Stack Developer | Machine Learning Enthusiast | DSA Strategist</h3>
 
 <p align="center">
-  <img src="https://i.gifer.com/origin/43/43555b4c4b0f22e1cba4f6ffba7d5c86.gif" width="200" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/fire.gif" width="200">
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=00F7FF&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;Machine+Learning+and+DSA+Enthusiast;Problem+Solver+%7C+Creative+Thinker;Building+Projects+%7C+Learning+Daily;Welcome+to+My+Developer+Universe+🚀" />
-</p>
-
-<p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="90%"></p>
-
----
-
-## 👨‍💻 About Me  
-I love solving challenging problems, building real-world applications, and expanding my knowledge every single day.  
-My goal is to become an impactful **Full-Stack + ML Developer** and build meaningful software products.
-
-
-
----
-
-## 🚀 What I Do  
-- 🌐 Full Stack Development — *React, Node.js, MySQL*  
-- ⚡ Real-Time web applications using *Socket.IO*  
-- 🤖 Machine Learning & Python Projects  
-- 💾 API Development & System Design  
-- 🧠 Problem Solving & DSA  
-- 🏗 Building personal & collaborative tech projects  
-
-<p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="90%"></p>
-
----
-
-## 🛠 Skills  
-
-### 💻 Languages  
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-orange?logo=java" />
-  <img src="https://img.shields.io/badge/C%2B%2B-blue?logo=c%2B%2B" />
-  <img src="https://img.shields.io/badge/Python-yellow?logo=python" />
-  <img src="https://img.shields.io/badge/JavaScript-black?logo=javascript" />
-</p>
-
-### 🎨 Frontend  
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML-orange?logo=html5" />
-  <img src="https://img.shields.io/badge/CSS-blue?logo=css3" />
-  <img src="https://img.shields.io/badge/React-black?logo=react" />
-</p>
-
-### 🛠 Backend  
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-green?logo=node.js" />
-  <img src="https://img.shields.io/badge/Express.js-black?logo=express" />
-</p>
-
-### 🗄 Databases  
-<p align="center">
-  <img src="https://img.shields.io/badge/MySQL-blue?logo=mysql" />
-</p>
-
-### ⚙ Tools & OS  
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-red?logo=git" />
-  <img src="https://img.shields.io/badge/GitHub-black?logo=github" />
-  <img src="https://img.shields.io/badge/VSCode-blue?logo=visual-studio-code" />
-  <img src="https://img.shields.io/badge/Linux-black?logo=linux" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Machine+Learning+Explorer;Data+Structures+%26+Algorithms+Focused;System+Design+Learner;Building+Scalable+Digital+Products+🚀" />
 </p>
 
 ---
 
+## 👨‍💻 About Me
+
+Results-driven developer passionate about building scalable, efficient, and impactful software systems.
+
+- 💡 Strong foundation in Data Structures & Algorithms  
+- 🌐 Building Full-Stack Applications  
+- 🤖 Exploring Applied Machine Learning  
+- 📈 Focused on System Design & Backend Optimization  
+- 🔥 Consistent learner & disciplined problem solver  
+
 ---
 
-## 🧩 Coding Profiles  
+## 🛠 Tech Stack
+
+### 💻 Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+### 🌐 Frontend
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### ⚙ Backend
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+### 🗄 Database
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+---
+
+## 📊 GitHub Analytics
+
 <p align="center">
-  <a href="https://leetcode.com/u/Aman-kumar1234/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white" />
+  <img src="https://github-readme-stats.vercel.app/api?username=amankumardev&show_icons=true&theme=tokyonight" height="170">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amankumardev&theme=tokyonight" height="170">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amankumardev&layout=compact&theme=tokyonight">
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amankumardev&theme=tokyo-night" />
+</p>
+
+---
+
+## 🏆 Developer Metrics
+
+- 🚀 10+ Real-World Projects Built  
+- 🧠 300+ DSA Problems Solved  
+- 🔥 Daily Coding Practice  
+- 🌍 Open Source Contributor (Growing)  
+
+---
+
+## 🎯 Current Focus
+
+- Advanced Backend Architecture  
+- Machine Learning Implementation  
+- System Design Fundamentals  
+- Competitive Programming  
+
+---
+
+## 📬 Connect With Me
+
+<p align="center">
+  <a href="www.linkedin.com/in/
+aman-kumar-615b5a292
+">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://www.kaggle.com/amankumardev">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white" />
+  <a href="amankumardev688@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amankumardev&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amankumardev&layout=compact&theme=tokyonight" />
-  <img src="https://streak-stats.demolab.com?user=amankumardev&theme=tokyonight" />
+  ⚡ Building Today for a Smarter Tomorrow ⚡
 </p>
-
-
----
-
-## 🌐 Connect With Me  
-📧 **Email:** amankumardev688@gmail.com  
-
-<h3 align="center">✨ Thanks for Visiting — Keep Building & Keep Growing! ✨</h3>
-
-<p align="center">
-  <img width="400" src="https://media.giphy.com/media/xUA7bdpLxQhsSQdxGw/giphy.gif">
-</p>
-
