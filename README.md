@@ -21,7 +21,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Full Stack Developer and Machine Learning enthusiast** who enjoys building practical, scalable, and user-focused applications.
+I'm a **Full Stack Developer and Data Analyst** who enjoys building practical, scalable, and user-focused applications.
 
 I love solving problems, exploring new technologies, and turning ideas into real-world software.
 
