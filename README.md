@@ -8,11 +8,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=850&lines=Full+Stack+Developer+💻;Data+Analyst+📊;Machine+Learning+Explorer+🤖;DSA+Practitioner+🧠;Building+Real-World+Projects+🚀" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=amankumardev&label=Profile%20Views&color=00F7FF&style=flat" />
-  <img src="https://img.shields.io/github/followers/amankumardev?label=Followers&style=flat&color=00F7FF" />
-</p>
-
 ---
 
 ## 👨‍💻 About Me
@@ -155,9 +150,9 @@ Data analysis project involving data cleaning, preprocessing, exploratory analys
 
 ```text
 Full Stack Development   ████████████████░░
-Data Analytics            ███████████████░░░
+Data Analytics           ███████████████░░░
 DSA & Problem Solving    ███████████████░░░
-Machine Learning          ████████████░░░░░░
-Backend Development       █████████████░░░░░
-System Design             █████████░░░░░░░░░
-Cloud & DevOps            ██████░░░░░░░░░░░░
+Machine Learning         ████████████░░░░░░
+Backend Development      █████████████░░░░░
+System Design            █████████░░░░░░░░░
+Cloud & DevOps           ██████░░░░░░░░░░░░
