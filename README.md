@@ -1,12 +1,16 @@
-<h1 align="center">👋 Hi, I'm Aman Kumar</h1>
+<div align="center">
 
-<h3 align="center">
-🚀 Full Stack Developer • 📊 Data Analyst • 🧠 DSA Practitioner
-</h3>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=36&duration=2800&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&height=80&lines=👋+Hi%2C+I'm+Aman+Kumar;🚀+Welcome+to+My+GitHub!" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=850&lines=Full+Stack+Developer+💻;Data+Analyst+📊;Machine+Learning+Explorer+🤖;DSA+Practitioner+🧠;Building+Real-World+Projects+🚀" />
-</p>
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2200&pause=700&color=7DF9FF&center=true&vCenter=true&width=800&height=55&lines=🚀+Full+Stack+Developer;📊+Data+Analyst;🧠+DSA+Practitioner;🤖+Machine+Learning+Explorer;💻+Building+Real-World+Projects" />
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=header" width="80%"/>
+
+</div>
 
 ---
 
@@ -113,9 +117,13 @@ Data analysis project involving data cleaning, preprocessing, exploratory analys
 ## 🧠 LeetCode
 
 <p align="center">
-  <a href="https://leetcode.com/u/Aman-kumar1234/">
-    <img src="https://img.shields.io/badge/LeetCode-Aman--kumar1234-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
+
+<a href="https://leetcode.com/u/Aman-kumar1234/">
+
+<img src="https://img.shields.io/badge/LeetCode-Aman--kumar1234-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+
+</a>
+
 </p>
 
 🔥 **150+ DSA Problems Solved**
@@ -128,12 +136,17 @@ Data analysis project involving data cleaning, preprocessing, exploratory analys
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amankumardev&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
-  <img src="https://streak-stats.demolab.com?user=amankumardev&theme=tokyonight&hide_border=true" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=amankumardev&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
+
+<img src="https://streak-stats.demolab.com?user=amankumardev&theme=tokyonight&hide_border=true" height="170"/>
+
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amankumardev&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amankumardev&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+
 </p>
 
 ---
@@ -141,7 +154,9 @@ Data analysis project involving data cleaning, preprocessing, exploratory analys
 ## 🐍 Contribution Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+
 </p>
 
 ---
