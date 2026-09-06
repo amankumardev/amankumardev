@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Aman Kumar</h1>
 
 <h3 align="center">
-🚀 Full Stack Developer | 🤖 Machine Learning Enthusiast | 🧠 DSA Practitioner
+🚀 Full Stack Developer | 🤖 Data Analyst | 🧠 DSA Practitioner
 </h3>
 
 <p align="center">
