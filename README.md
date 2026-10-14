@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2200&pause=700&color=7DF9FF&center=true&vCenter=true&width=800&height=55&lines=🚀+Full+Stack+Developer;📊+Data+Analyst;🧠+DSA+Practitioner;🤖+Machine+Learning+Explorer;💻+Building+Real-World+Projects" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2200&pause=700&color=7DF9FF&center=true&vCenter=true&width=800&height=55&lines=🚀📊+Data+Analyst;+Full+Stack+Developer;🧠+DSA+Practitioner;🤖+Machine+Learning+Explorer;💻+Building+Real-World+Projects" />
 
 <br><br>
 
