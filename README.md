@@ -6,10 +6,10 @@
 
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:155E75,100:06B6D4&height=220&section=header&text=Aman%20Kumar&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=Data%20Analytics%20%7C%20Machine%20Learning%20%7C%20Python&descSize=17&descAlignY=60&animation=fadeIn" width="100%" alt="Aman Kumar profile banner"/>
+type=waving&color=0:0F172A,50:155E75,100:06B6D4&height=220&section=header&text=Aman%20Kumar&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=Data%20Analytics%20%7C%20Machine%20Learning%20%7C%20Python&descSize=17&descAlignY=60&animation=fadeIn" width="100%" alt="Aman Kumar profile banner"/>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=700&lines=Turning+Data+into+Insights;Exploring+Machine+Learning;Building+Data-Driven+Projects;Learning+Something+New+Every+Day" alt="Animated typing introduction"/>
+font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=700&lines=Turning+Data+into+Insights;Exploring+Machine+Learning;Building+Data-Driven+Projects;Learning+Something+New+Every+Day" alt="Animated typing introduction"/>
   </a>
 
   <p>
