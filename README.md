@@ -14,7 +14,7 @@
 <a href="https://aman-portfolio-2.onrender.com/"><img src="https://img.shields.io/badge/Portfolio-Visit-0891B2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
 </p>
 
-![Profile views](https://komarev.com/ghpvc/?username=amankumardev&style=flat-square&color=0891b2&label=PROFILE+VIEWS&v=3)
+
 
 </div>
 
