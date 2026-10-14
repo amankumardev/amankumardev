@@ -14,7 +14,7 @@
 <a href="https://aman-portfolio-2.onrender.com/"><img src="https://img.shields.io/badge/Portfolio-Visit-0891B2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=amankumardev&style=flat-square&color=0891b2&label=PROFILE%20VIEWS&v=2" alt="Profile view counter"/>
+![Profile views](https://komarev.com/ghpvc/?username=amankumardev&style=flat-square&color=0891b2&label=PROFILE+VIEWS&v=3)
 
 </div>
 
@@ -156,7 +156,7 @@ A vehicle rental website built with frontend web technologies.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/amankumardev/amankumardev/output/github-contribution-grid-snake-dark.svg?v=2" alt="Animated GitHub contribution snake"/>
+![Animated GitHub contribution snake](https://raw.githubusercontent.com/amankumardev/amankumardev/output/github-contribution-grid-snake-dark.svg?v=3)
 
 </div>
 
